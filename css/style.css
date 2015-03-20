@@ -1,0 +1,63 @@
+.app_form .form-horizontal .control-label {
+	padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+}
+.app_form .form-horizontal .btn-primary {
+	float: left;
+}
+.app_form .form-horizontal .form-group {
+	margin-right: 0;
+	margin-left: 0;
+}
+header sub {
+	font-size: 9px;
+	bottom: -1.25em;
+    right: 25px;
+}
+.app_title {
+	float: left;
+	font-size: 50px;
+}
+.search-box {
+    float: right;
+    margin-top: 20px;
+}
+.main.container {
+    padding-top: 15px;
+}
+.section-title {
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+.right_form {
+	border-radius: 10px;
+    -webkit-border-radius: 10px;
+    display: inline-block;
+    margin: 0;
+    padding: 10px;
+    width: 100%;
+}
+input[disabled] {
+	opacity: 0.5;
+}
+.add_form {
+	background: #f0f9ff;
+	background: -moz-linear-gradient(left,  #f0f9ff 0%, #cbebff 47%, #a1dbff 100%);
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,#f0f9ff), color-stop(47%,#cbebff), color-stop(100%,#a1dbff));
+	background: -webkit-linear-gradient(left,  #f0f9ff 0%,#cbebff 47%,#a1dbff 100%);
+	background: -o-linear-gradient(left,  #f0f9ff 0%,#cbebff 47%,#a1dbff 100%);
+	background: -ms-linear-gradient(left,  #f0f9ff 0%,#cbebff 47%,#a1dbff 100%);
+	background: linear-gradient(to right,  #f0f9ff 0%,#cbebff 47%,#a1dbff 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f9ff', endColorstr='#a1dbff',GradientType=1 );
+}
+.update_form {
+	background: #a1dbff;
+	background: -moz-linear-gradient(left,  #a1dbff 0%, #cbebff 47%, #f0f9ff 100%);
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,#f0f9ff), color-stop(47%,#cbebff), color-stop(100%,#a1dbff));
+	background: -webkit-linear-gradient(left,  #a1dbff 0%,#cbebff 47%,#f0f9ff 100%);
+	background: -o-linear-gradient(left,  #a1dbff 0%,#cbebff 47%,#f0f9ff 100%);
+	background: -ms-linear-gradient(left,  #a1dbff 0%,#cbebff 47%,#f0f9ff 100%);
+	background: linear-gradient(to right,  #a1dbff 0%,#cbebff 47%,#f0f9ff 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a1dbff', endColorstr='#f0f9ff',GradientType=1 );
+}
